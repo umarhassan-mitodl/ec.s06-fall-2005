@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides information about mid-term review and final review.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -74,7 +72,7 @@ Introduction by Andrew Heafitz
 _not available_
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 24 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Intro_Heafitz-12dec05-220k.mp4))
+({{% resource_link "6a846db9-4d4c-433f-a569-02c2f1f40eef" "MP4 - 24 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,10 +81,10 @@ _not available_
 Internet Kiosks, by Nupur Garg
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 110 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Garg-01nov05-220k.mp4))
+({{% resource_link "e60c34ac-68ff-4a10-80cc-9b3f4085df0a" "MP4 - 110 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 150 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Garg-08dec05-220k.mp4))
+({{% resource_link "922610a4-3e7b-42ed-8e29-3b0db12564af" "MP4 - 150 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,10 +93,10 @@ Internet Kiosks, by Nupur Garg
 Solar Water Disinfection (SoDis), by Alfinio Flores
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 113 MB](http://www.archive.org/download/MITSP.724F05/ocw-sp.724-Flores-01nov05-220k.mp4))
+({{% resource_link "f2cac99f-5818-4685-898e-9a5a9408788e" "MP4 - 113 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([MP3 - 10 MB](http://www.archive.org/download/MITSP.724F05/Alfinio_Flores_12805.mp3))  
+({{% resource_link "6751f048-5a02-4aac-ae9b-6ba59bf3f8fe" "MP3 - 10 MB" %}})  
   
 Still Image of SoDis Bag ({{% resource_link b0205385-aef4-090d-efba-721749c45b38 "JPEG" %}})
 {{< tdclose >}}
